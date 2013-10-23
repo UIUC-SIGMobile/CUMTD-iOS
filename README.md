@@ -5,4 +5,4 @@ Team
 =============
 | Name       | NETID           | Role  |
 | :-------------: |:-------------:| :-----:|
-| Matt Graf      | bedoher2 | Developer |
+| Matt Graf      | graf5 | Developer |
